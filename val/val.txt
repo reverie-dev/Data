@@ -1,0 +1,17 @@
+/content/dataset/train/pic/pic81x88.png
+/content/dataset/train/pic/pic82x36.png
+/content/dataset/train/pic/pic83x16.png
+/content/dataset/train/pic/pic84x76.png
+/content/dataset/train/pic/pic85x83.png
+/content/dataset/train/pic/pic86x45.png
+/content/dataset/train/pic/pic88x56.png
+/content/dataset/train/pic/pic89x57.png
+/content/dataset/train/pic/pic90x61.png
+/content/dataset/train/pic/pic91x39.png
+/content/dataset/train/pic/pic91x79.png
+/content/dataset/train/pic/pic93x27.png
+/content/dataset/train/pic/pic93x58.png
+/content/dataset/train/pic/pic93x61.png
+/content/dataset/train/pic/pic96x43.png
+/content/dataset/train/pic/pic96x53.png
+/content/dataset/train/pic/pic96x54.png
